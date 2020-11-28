@@ -1,0 +1,30 @@
+.admin-content {
+    display: none;
+}
+
+.modal-active-admin {
+    display: flex;
+}
+
+.modal-passive-admin {
+    display: none;
+}
+
+
+/* MODAL LOGIN */
+
+.modal-login-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.modal-login-form-input-name,
+.modal-login-form-input-pass,
+.modal-login-form-input-submit {
+    margin: 20px;
+    width: 250px;
+}
+
+.admin-content-user td {
+    width: 150px;
+}

@@ -1,0 +1,7 @@
+.test-section {
+    opacity: 0;
+}
+
+.test-lesson-active {
+    opacity: 1;
+}
